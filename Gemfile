@@ -36,3 +36,4 @@ gem 'jquery-rails'
 
 gem 'therubyracer', :platforms => :ruby
 gem 'arel', :git => 'git://github.com/rails/arel.git'
+gem 'pg'
